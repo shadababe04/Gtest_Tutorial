@@ -1,0 +1,15 @@
+# ninja log v6
+9	183	7474172072843779	CMakeFiles/MyProjectLib.dir/src/math_op.cpp.obj	2846926ff4c66fb2
+184	449	7474172074599945	libMyProjectLib.a	ac3265e9080beae8
+23	610	7474172072995063	CMakeFiles/MyProject.dir/src/main.cpp.obj	e1e568b3b83b99e3
+612	827	7474172078865188	MyProject.exe	73508d552acbda5c
+18	1855	7474172072945054	third_party/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	eff6cc7ba4a43995
+28	1868	7474172073045383	CMakeFiles/MyProjectTests.dir/test/math_test.cpp.obj	84a495e23ede0cc2
+38	2228	7474172073145658	third_party/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	84bb1debb294b79a
+13	3515	7474172072893417	third_party/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	adfade7c35654d87
+5	8219	7474172072798250	third_party/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	fc8ccbfb975f995b
+8222	8469	7474172154967327	lib/libgtest.a	b149807b1b3682b8
+8477	8651	7474172157518295	lib/libgtest_main.a	8ff78d29c9fe7d8e
+8469	8671	7474172157443182	lib/libgmock.a	23b4fa291badb041
+8682	8841	7474172159567810	lib/libgmock_main.a	db515a13141f7897
+8672	9077	7474172159466486	MyProjectTests.exe	4c04e2ff35d193fd

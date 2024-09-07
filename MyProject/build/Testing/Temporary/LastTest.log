@@ -1,0 +1,29 @@
+Start testing: Sep 07 18:30 India Standard Time
+----------------------------------------------------------
+1/1 Testing: MyProjectTests
+1/1 Test: MyProjectTests
+Command: "D:/C_C++/Gtest_Tutorial/MyProject/build/MyProjectTests.exe"
+Directory: D:/C_C++/Gtest_Tutorial/MyProject/build
+"MyProjectTests" start time: Sep 07 18:30 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:/C_C++/Gtest_Tutorial/MyProject/third_party/googletest/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MathOperationsTest
+[ RUN      ] MathOperationsTest.AddFunction
+[       OK ] MathOperationsTest.AddFunction (0 ms)
+[----------] 1 test from MathOperationsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"MyProjectTests" end time: Sep 07 18:30 India Standard Time
+"MyProjectTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 07 18:30 India Standard Time
